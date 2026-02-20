@@ -44,15 +44,15 @@ Road to becoming the greatest inventor.
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
+  
+![](https://github-readme-stats.vercel.app/api?username=JerenzeLevi&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JerenzeLevi&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JerenzeLevi&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JerenzeLevi&hide_border=true&bg_color=00000000&title_color=FF4D6D&icon_color=FF1744&text_color=FF8FA3&format=png" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerenzeLevi&hide_border=true&background=00000000&ring=FF4D6D&fire=FF1744&currStreakLabel=FF4D6D&text_color=FF8FA3&format=png" height="170"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JerenzeLevi&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerenzeLevi&hide_border=true&layout=compact&bg_color=00000000&title_color=FF4D6D&text_color=FF8FA3&format=png"/>
-</p>
+[![](https://visitcount.itsvg.in/api?id=JerenzeLevi&icon=1&color=4)](https://visitcount.itsvg.in)
 
 ---
 
