@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- 🌸 BRIGHT PINK ANIME HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF66C4,100:FFC0CB&height=220&section=header&animation=fadeIn"/>
+</p>
 
-<!--
-**JerenzeLevi/JerenzeLevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🌸 ANIME GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="75%" />
+</p>
 
-Here are some ideas to get you started:
+<!-- 🌸 TYPING TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&color=FF4D6D&center=true&vCenter=true&width=900&lines=Jerenze+Levi;Computer+Science+Student;The+Analyst:+Hyposelenia;I'll+become+the+Greatest+Inventor;Still+Learning;Hi+Sarah+Giamat<3;My+heart+is,+and+always+will+be,+yours." />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 align="center">🌸 About Me</h2>
+
+<p align="center">
+Computer Science student focused on self-discovery, learning, and future building.<br/>
+I am willing to be taught for I am a beginner.<br/><br/>
+Matcha enjoyer, book reader, Laufey listener, chess player.<br/>
+Road to becoming the greatest inventor.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D6D&height=2"/>
+</p>
+
+---
+
+<h2 align="center">🌙 Tech Stack</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-1A1A2E?style=for-the-badge&logo=java&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/Python-1A1A2E?style=for-the-badge&logo=python&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/HTML5-1A1A2E?style=for-the-badge&logo=html5&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/CSS3-1A1A2E?style=for-the-badge&logo=css3&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/Arduino-1A1A2E?style=for-the-badge&logo=arduino&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/MySQL-1A1A2E?style=for-the-badge&logo=mysql&logoColor=FF1744"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JerenzeLevi&hide_border=true&bg_color=00000000&title_color=FF4D6D&icon_color=FF1744&text_color=FF8FA3&format=png" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerenzeLevi&hide_border=true&background=00000000&ring=FF4D6D&fire=FF1744&currStreakLabel=FF4D6D&text_color=FF8FA3&format=png" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerenzeLevi&hide_border=true&layout=compact&bg_color=00000000&title_color=FF4D6D&text_color=FF8FA3&format=png"/>
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Animation</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXhkZ3A5dGhyMnA3ZG5sZ2swYnFvMW4xM294OHh5YnZuOThvZm94ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uU8IHAFVDVhks/200w.gif" width="25%" />
+</p>
+
+<p align="center">
+  <i>"࣪ ִֶָ☾. The World gets harsher by every minute, but I'll be softer for you, my love. ₊˚.🌹⋆⁺₊"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF66C4,100:FF1493&height=200&section=footer"/>
+</p>
