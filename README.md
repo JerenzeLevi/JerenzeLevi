@@ -10,7 +10,7 @@
 
 <!-- 🌸 TYPING TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&color=FF4D6D&center=true&vCenter=true&width=900&lines=Jerenze+Levi;Computer+Science+Student;The+Analyst:+Hyposelenia;I'll+become+the+Greatest+Inventor;Still+Learning;Hi+Sarah+Giamat<3;My+heart+is,+and+always+will+be,+yours." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&color=FFB7C5&center=true&vCenter=true&width=900&lines=Jerenze+Levi;Computer+Science+Student;The+Analyst:+Hyposelenia;I'll+become+the+Greatest+Inventor;Still+Learning;Hi+Sarah+Giamat<3;My+heart+is,+and+always+will+be,+yours." />
 </p>
 
 ---
@@ -44,6 +44,8 @@ Road to becoming the greatest inventor.
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=JerenzeLevi&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JerenzeLevi&theme=shadow_red&hide_border=false)<br/>
@@ -53,13 +55,15 @@ Road to becoming the greatest inventor.
 ![](https://github-contributor-stats.vercel.app/api?username=JerenzeLevi&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=JerenzeLevi&icon=1&color=4)](https://visitcount.itsvg.in)
+</div>  
+
 
 ---
 
-<h2 align="center">🔥 Contribution Animation</h2>
+<h2 align="center">🌸 Contribution Animation</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/github-snake-dark.svg" alt="Sakura Snake" width="100%" />
 </p>
 
 ---
