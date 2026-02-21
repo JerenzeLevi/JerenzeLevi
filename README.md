@@ -1,6 +1,6 @@
 <!-- 🌸 BRIGHT PINK ANIME HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF66C4,100:FFC0CB&height=220&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF66C4,100:FFC0CB&height=180&section=header&animation=fadeIn"/>
 </p>
 
 <!-- 🌸 ANIME GIF -->
@@ -103,5 +103,5 @@ Road to becoming the greatest inventor.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF66C4,100:FF1493&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF66C4,100:FF1493&height=180&section=footer"/>
 </p>
