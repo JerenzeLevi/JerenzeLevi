@@ -20,9 +20,32 @@
 <p align="center">
 Computer Science student focused on self-discovery, learning, and future building.<br/>
 I am willing to be taught for I am a beginner.<br/><br/>
-Matcha enjoyer, book reader, Laufey listener, chess player.<br/>
 Road to becoming the greatest inventor.
 </p>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+  <b>🍵 Matcha Lover</b><br><br>
+  <img src="https://thumbs.dreamstime.com/b/delicious-hot-matcha-latte-glass-cup-steaming-green-tea-beverage-fresh-healthy-drink-aesthetic-table-setting-filled-400316951.jpg" width="200"/>
+</td>
+
+<td align="center" width="200">
+  <b>📖 Read Books</b><br><br>
+  <img src="https://i.pinimg.com/736x/af/58/66/af5866092ce3657fa0a63a8b10fbebc1.jpg" width="150"/>
+</td>
+
+<td align="center" width="200">
+  <b>🎶 Listens to Laufey Songs</b><br><br>
+  <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-11/Laufey-main-te-221108-97cd49.jpg" width="180"/>
+</td>
+
+<td align="center" width="200">
+  <b>♟️ Chess Player</b><br><br>
+  <img src="https://mychessets.com/cdn/shop/articles/text-to-image_7921688a-91c9-41b5-9da2-7d41bd3ee25e.png?v=1720371534&width=1024" width="180"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D6D&height=2"/>
@@ -57,6 +80,9 @@ Road to becoming the greatest inventor.
 [![](https://visitcount.itsvg.in/api?id=JerenzeLevi&icon=1&color=4)](https://visitcount.itsvg.in)
 </div>  
 
+<p align="center">
+  <img src="https://i.wahup.com/media/tmp_meme_images/3229ae1d-d226-48af-88c6-f82f38bcef60.png" width="50%" />
+</p>
 
 ---
 
