@@ -92,21 +92,11 @@ Road to becoming the greatest inventor.
 
 <br>
 
-<h2 align="center">🌙 My World</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/profile-3d-contrib/profile-night-rainbow.svg" width="40%" alt="3D Globe" />
-</p>
-
-<br>
-
 <h2 align="center">🌸 The Pink Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/github-snake-dark.svg" alt="Sakura Snake" width="100%" />
 </p>
-
---->
 
 ---
 
