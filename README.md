@@ -1,14 +1,11 @@
-<!-- 🌸 BRIGHT PINK ANIME HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF66C4,100:FFC0CB&height=160&section=header&animation=fadeIn"/>
 </p>
 
-<!-- 🌸 ANIME GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="75%" />
+  <img src="https://i.pinimg.com/originals/a2/a8/a9/a2a8a90329d7030440947c6e3a711a16.gif" width="60%" />
 </p>
 
-<!-- 🌸 TYPING TITLE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&color=FFB7C5&center=true&vCenter=true&width=900&lines=Jerenze+Levi;Computer+Science+Student;The+Analyst:+Hyposelenia;I'll+become+the+Greatest+Inventor;Still+Learning;Hi+Sarah+Giamat<3;My+heart+is,+and+always+will+be,+yours." />
 </p>
@@ -56,12 +53,19 @@ Road to becoming the greatest inventor.
 <h2 align="center">🌙 Tech Stack</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-1A1A2E?style=for-the-badge&logo=java&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Python-1A1A2E?style=for-the-badge&logo=python&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/HTML5-1A1A2E?style=for-the-badge&logo=html5&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/CSS3-1A1A2E?style=for-the-badge&logo=css3&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/Arduino-1A1A2E?style=for-the-badge&logo=arduino&logoColor=FF1744"/>
-<img src="https://img.shields.io/badge/MySQL-1A1A2E?style=for-the-badge&logo=mysql&logoColor=FF1744"/>
+  <img src="https://skillicons.dev/icons?i=java,python,androidstudio,php,mysql&perline=5" /><br>
+  <font color="#FF66C4"><b>Java</b></font> 🌸 <font color="#FF66C4"><b>Python</b></font> 🌸 <font color="#FF66C4"><b>Android Studio</b></font> 🌸 <font color="#FF66C4"><b>PHP</b></font> 🌸 <font color="#FF66C4"><b>MySQL</b></font>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,arduino,kali" />
+  <img src="https://img.shields.io/badge/Nmap-1A1A2E?style=for-the-badge&logo=nmap&logoColor=FF1744" height="48" style="vertical-align: top;"/><br>
+  <font color="#FF66C4"><b>HTML5</b></font> 🌸 <font color="#FF66C4"><b>CSS3</b></font> 🌸 <font color="#FF66C4"><b>Arduino</b></font> 🌸 <font color="#FF66C4"><b>Kali Linux</b></font> 🌸 <font color="#FF66C4"><b>Nmap</b></font>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,robloxstudio,visualstudio,vscode,git&perline=5" /><br>
+  <font color="#FF66C4"><b>GitHub</b></font> 🌸 <font color="#FF66C4"><b>Roblox Studio</b></font> 🌸 <font color="#FF66C4"><b>Visual Studio</b></font> 🌸 <font color="#FF66C4"><b>VS Code</b></font> 🌸 <font color="#FF66C4"><b>Git</b></font>
 </p>
 
 ---
@@ -69,30 +73,48 @@ Road to becoming the greatest inventor.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=JerenzeLevi&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JerenzeLevi&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JerenzeLevi&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=JerenzeLevi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" /><br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JerenzeLevi&theme=dracula&hide_border=true" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerenzeLevi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JerenzeLevi&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=JerenzeLevi&icon=1&color=4)](https://visitcount.itsvg.in)
-</div>  
-
-<p align="center">
-  <img src="https://i.wahup.com/media/tmp_meme_images/3229ae1d-d226-48af-88c6-f82f38bcef60.png" width="50%" />
-</p>
+<br>
 
 ---
 
-<h2 align="center">🌸 Contribution Animation</h2>
+<h2 align="center">🌸 Contribution Journey</h2>
+
+<h2 align="center">📈 Coding Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerenzeLevi&theme=dracula&color=FF66C4&line=FF1493&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+<br>
+
+<h2 align="center">🌙 My World</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/profile-3d-contrib/profile-night-rainbow.svg" width="40%" alt="3D Globe" />
+</p>
+
+<br>
+
+<h2 align="center">🌸 The Pink Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/github-snake-dark.svg" alt="Sakura Snake" width="100%" />
 </p>
 
+--->
+
 ---
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=4000&pause=1000&color=FF66C4&center=true&vCenter=true&width=600&lines=Thank+you+for+stopping+by+!;Have+a+wonderful+day+!;Keep+Exploring+!;Discover+more+of+life+!;Keep+creating+and+inventing+🌸" />
+</p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXhkZ3A5dGhyMnA3ZG5sZ2swYnFvMW4xM294OHh5YnZuOThvZm94ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uU8IHAFVDVhks/200w.gif" width="25%" />

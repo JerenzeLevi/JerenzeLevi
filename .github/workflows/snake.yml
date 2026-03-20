@@ -1,4 +1,4 @@
-name: generate animation
+name: generate snake
 
 on:
   schedule:
@@ -16,12 +16,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pink snake on crimson board
+      - name: generate pink snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#FF1493&color_dots=#0D1117,#3A0F1C,#701828,#B71C1C,#FF1744
+            dist/github-snake-dark.svg?color_snake=#FF1493&color_dots=#161b22,#4a0e1c,#8b1a30,#b71c1c,#d32f2f
 
       - name: push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
