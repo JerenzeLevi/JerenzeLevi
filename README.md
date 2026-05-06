@@ -53,19 +53,25 @@ Road to becoming the greatest inventor.
 <h2 align="center">🌙 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,androidstudio,php,mysql&perline=5" /><br>
-  <font color="#FF66C4"><b>Java</b></font> 🌸 <font color="#FF66C4"><b>Python</b></font> 🌸 <font color="#FF66C4"><b>Android Studio</b></font> 🌸 <font color="#FF66C4"><b>PHP</b></font> 🌸 <font color="#FF66C4"><b>MySQL</b></font>
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,mysql" /><br>
+  <span style="color:#FF66C4;"><b>Java</b> 🌸 <b>Python</b> 🌸 <b>C</b> 🌸 <b>PHP</b> 🌸 <b>MySQL</b></span>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,arduino,kali" />
-  <img src="https://img.shields.io/badge/Nmap-1A1A2E?style=for-the-badge&logo=nmap&logoColor=FF1744" height="48" style="vertical-align: top;"/><br>
-  <font color="#FF66C4"><b>HTML5</b></font> 🌸 <font color="#FF66C4"><b>CSS3</b></font> 🌸 <font color="#FF66C4"><b>Arduino</b></font> 🌸 <font color="#FF66C4"><b>Kali Linux</b></font> 🌸 <font color="#FF66C4"><b>Nmap</b></font>
+  <img src="https://skillicons.dev/icons?i=html,css,arduino,androidstudio,kali" /><br>
+  <span style="color:#FF66C4;"><b>HTML5</b> 🌸 <b>CSS3</b> 🌸 <b>Arduino</b> 🌸 <b>Android Studio</b> 🌸 <b>Kali Linux</b></span>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,robloxstudio,visualstudio,vscode,git&perline=5" /><br>
-  <font color="#FF66C4"><b>GitHub</b></font> 🌸 <font color="#FF66C4"><b>Roblox Studio</b></font> 🌸 <font color="#FF66C4"><b>Visual Studio</b></font> 🌸 <font color="#FF66C4"><b>VS Code</b></font> 🌸 <font color="#FF66C4"><b>Git</b></font>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,robloxstudio" /><br>
+  <span style="color:#FF66C4;"><b>GitHub</b> 🌸 <b>Git</b> 🌸 <b>VS Code</b> 🌸 <b>Visual Studio</b> 🌸 <b>Roblox Studio</b></span>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-1A1A2E?style=for-the-badge&logo=nmap&logoColor=FF1744" height="48"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white" height="48"/><br>
+  <span style="color:#FF66C4;"><b>Nmap</b> 🌸 <b>Wireshark</b> 🌸 <b>Ghidra</b></span>
 </p>
 
 ---
@@ -73,10 +79,16 @@ Road to becoming the greatest inventor.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JerenzeLevi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" /><br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JerenzeLevi&theme=dracula&hide_border=true" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerenzeLevi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  ![](https://github-readme-stats.shion.dev/api?username=JerenzeLevi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://streak-stats.demolab.com/?user=JerenzeLevi&theme=dracula&hide_border=false)<br/>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JerenzeLevi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=JerenzeLevi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
 
 <br>
 
@@ -84,21 +96,15 @@ Road to becoming the greatest inventor.
 
 <h2 align="center">🌸 Contribution Journey</h2>
 
-<h2 align="center">📈 Coding Activity</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/github-snake-dark.svg" alt="Sakura Snake" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerenzeLevi&theme=dracula&color=FF66C4&line=FF1493&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 <br>
-
-<h2 align="center">🌸 The Pink Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JerenzeLevi/JerenzeLevi/output/github-snake-dark.svg" alt="Sakura Snake" width="100%" />
-</p>
-
----
 
 ---
 
