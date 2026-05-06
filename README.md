@@ -79,16 +79,19 @@ Road to becoming the greatest inventor.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=JerenzeLevi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://streak-stats.demolab.com/?user=JerenzeLevi&theme=dracula&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JerenzeLevi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.shion.dev/api?username=JerenzeLevi&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats bro"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=JerenzeLevi&theme=radical&hide_border=true" alt="Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JerenzeLevi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="language bro"/>
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=JerenzeLevi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=JerenzeLevi&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
-
 
 <br>
 
